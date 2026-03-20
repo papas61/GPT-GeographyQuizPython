@@ -13,7 +13,7 @@ window.resizable(False, False)
 score = 0
 questions = 0
 MAX_QUESTIONS = 5
-prev_questions = []
+prev_questions = set()
 
 def check(guess):
     global score, questions
