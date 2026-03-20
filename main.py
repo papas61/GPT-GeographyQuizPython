@@ -2,7 +2,7 @@ import openai
 from ttkthemes import ThemedTk
 from tkinter import ttk
 
-client = openai.OpenAI(api_key = "sk-proj-")
+client = openai.OpenAI(api_key = "YOUR_API_KEY_HERE")
 
 window = ThemedTk(theme="breeze")
 window.configure(themebg="breeze")
