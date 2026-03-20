@@ -88,16 +88,6 @@ python your_script_name.py
 
 ---
 
-## 🚀 Future Improvements
-
-* ⏱️ Add timer per question
-* 🎚️ Difficulty levels
-* 🔊 Sound effects
-* 💾 Cache questions to reduce API usage
-* 🎨 UI improvements / animations
-
----
-
 ## 📜 License
 
 This project is for educational purposes.
